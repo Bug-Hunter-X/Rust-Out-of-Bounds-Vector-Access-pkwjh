@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an out-of-bounds vector access error. The program attempts to access an element of a vector using an index that is greater than or equal to the vector's length. This results in a runtime panic.  The solution shows how to safely access vector elements using appropriate checks.
